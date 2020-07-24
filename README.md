@@ -3,8 +3,8 @@
 ## Stats
 ![Public Repositories](https://github-readme-stats.vercel.app/api?username=tklein1801&show_icons=true&hide_title=true)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tklein1801&repo=DAG-Auktionshaus)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tklein1801&repo=DAG-Infoapp)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tklein1801&repo=DAG-Auktionshaus)](https://github.com/tklein1801/DAG-Auktionshaus)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tklein1801&repo=DAG-Infoapp)](https://github.com/tklein1801/DAG-Infoapp)
 
 ## Skills
 <img src="https://img.shields.io/badge/HTML-28a745"> <img src="https://img.shields.io/badge/CSS-blue"> <img src="https://img.shields.io/badge/JavaScript-yellow"> <img src="https://img.shields.io/badge/PHP-purple"> <img src="https://img.shields.io/badge/Java-red">

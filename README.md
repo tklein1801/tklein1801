@@ -4,7 +4,7 @@
 ![Public Repositories](https://github-readme-stats.vercel.app/api?username=tklein1801&show_icons=true&hide_title=true)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tklein1801&repo=DAG-Auktionshaus)](https://github.com/tklein1801/DAG-Auktionshaus)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tklein1801&repo=DAG-Infoapp)](https://github.com/tklein1801/DAG-Infoapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tklein1801&repo=DAG-Infopanel)](https://github.com/tklein1801/DAG-Infopanel)
 
 ## Skills
 

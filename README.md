@@ -1,24 +1,31 @@
 # Hi there 👋
 
-### :art: Skills
+## :sparkles: Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tklein1801&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+|      Project      |                                          Description                                           |              Demo              |
+| :---------------: | :--------------------------------------------------------------------------------------------: | :----------------------------: |
+|   [EFT Market]    | Get the current flea market information for [Escape from Tarkov](https://escapefromtarkov.com) |    [https://eft.dulliag.de]    |
+| [React Auctions]  |                     ReactJS based real-time auction system using Firebase                      | [https://auktionen.dulliag.de] |
+| [DulliAG Website] |                                        Official website                                        |      [https://dulliag.de]      |
+| [Private website] |                                       My private website                                       |    [https://me.dulliag.de]     |
+|   [DAG Infoapp]   |            React Native based Android app for [ReallifeRPG](https://realliferpg.de)            |              N.A.              |
+|    [DulliBot]     |                           DiscordJS based bot for our Discord Server                           |        [Dulli Discord]         |
+|  [DAG Infopanel]  |               AdminLTE based Infopanel for [ReallifeRPG](https://realliferpg.de)               |   [https://info.dulliag.de]    |
 
-<img src="https://img.shields.io/badge/HTML-28a745"> <img src="https://img.shields.io/badge/CSS-blue"> <img src="https://img.shields.io/badge/JavaScript-yellow"> <img src="https://img.shields.io/badge/PHP-purple"> <img src="https://img.shields.io/badge/Java-red">
+## :art: Skills
 
-<img src="https://img.shields.io/badge/Bootstrap-blue"> <img src="https://img.shields.io/badge/React Native-purple">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
-<!--
-**tklein1801/tklein1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[eft market]: https://github.com/DulliAG/EFT-Marke
+[https://eft.dulliag.de]: https://eft.dulliag.de
+[react auctions]: https://github.com/tklein1801/React-Auctions
+[https://auktionen.dulliag.de]: https://auktionen.dulliag.de
+[dulliag website]: https://dulliag.de
+[https://dulliag.de]: https://dulliag.de
+[private website]: https://me.dulliag.de
+[https://me.dulliag.de]: https://me.dulliag.de
+[dag infoapp]: https://github.com/tklein1801/DAG-Infoapp
+[dullibot]: https://github.com/tklein1801/DulliBot
+[dulli discord]: https://discord.gg/szQjjuH
+[dag infopanel]: https://github.com/tklein1801/DAG-Infopanel
+[https://info.dulliag.de]: https://info.dulliag.de

@@ -1,5 +1,7 @@
 # Hi there 👋
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=tklein1801&theme=flat&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 ## :sparkles: Projects
 
 |      Project      |                                          Description                                           |              Demo              |
@@ -9,7 +11,7 @@
 | [DulliAG Website] |                                        Official website                                        |      [https://dulliag.de]      |
 | [Private website] |                                       My private website                                       |    [https://me.dulliag.de]     |
 |   [DAG Infoapp]   |            React Native based Android app for [ReallifeRPG](https://realliferpg.de)            |              N.A.              |
-|    [DulliBot]     |                           DiscordJS based bot for our Discord Server                           |        [Dulli Discord]         |
+|    [DulliBot]     |                           DiscordJS based bot for our Discord Server                           |        [DulliAG Discord]       |
 |  [DAG Infopanel]  |               AdminLTE based Infopanel for [ReallifeRPG](https://realliferpg.de)               |   [https://info.dulliag.de]    |
 
 ## :art: Skills
@@ -26,6 +28,6 @@
 [https://me.dulliag.de]: https://me.dulliag.de
 [dag infoapp]: https://github.com/tklein1801/DAG-Infoapp
 [dullibot]: https://github.com/tklein1801/DulliBot
-[dulli discord]: https://discord.gg/szQjjuH
+[dulliag discord]: https://discord.gg/szQjjuH
 [dag infopanel]: https://github.com/tklein1801/DAG-Infopanel
 [https://info.dulliag.de]: https://info.dulliag.de

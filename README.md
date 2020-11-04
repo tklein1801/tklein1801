@@ -12,6 +12,7 @@
 | [Private website] |                                       My private website                                       |    [https://me.dulliag.de]     |
 |   [DAG Infoapp]   |            React Native based Android app for [ReallifeRPG](https://realliferpg.de)            |              N.A.              |
 |    [DulliBot]     |                           DiscordJS based bot for our Discord Server                           |        [DulliAG Discord]       |
+|    [Amazon Bot]     |                           DiscordJS based bot for our Discord Server to webscrape prices from Amazon products                           |        [DulliAG Discord]       |
 |  [DAG Infopanel]  |               AdminLTE based Infopanel for [ReallifeRPG](https://realliferpg.de)               |   [https://info.dulliag.de]    |
 
 ## :art: Skills
@@ -29,5 +30,6 @@
 [dag infoapp]: https://github.com/tklein1801/DAG-Infoapp
 [dullibot]: https://github.com/tklein1801/DulliBot
 [dulliag discord]: https://discord.gg/szQjjuH
+[amazon bot]: https://github.com/tklein1801/Amazon-Bot
 [dag infopanel]: https://github.com/tklein1801/DAG-Infopanel
 [https://info.dulliag.de]: https://info.dulliag.de

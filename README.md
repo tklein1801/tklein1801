@@ -7,7 +7,6 @@
 |   [EFT Market]    | Get the current flea market information for [Escape from Tarkov](https://escapefromtarkov.com) |    [https://eft.dulliag.de]    |
 | [React Auctions]  |                     ReactJS based real-time auction system using Firebase                      | [https://auktionen.dulliag.de] |
 | [DulliAG Website] |                                        Official website                                        |      [https://dulliag.de]      |
-| [Private website] |                                       My private website                                       |    [https://me.dulliag.de]     |
 |   [DAG Infoapp]   |            React Native based Android app for [ReallifeRPG](https://realliferpg.de)            |              N.A.              |
 |    [DulliBot]     |                           DiscordJS based bot for our Discord Server                           |       [DulliAG Discord]        |
 |   [Amazon Bot]    |      DiscordJS based bot for our Discord Server to webscrape prices from Amazon products       |       [DulliAG Discord]        |

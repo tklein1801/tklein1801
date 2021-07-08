@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=tklein1801&label=Profile+views&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=tklein1801&style=flat-square&color=blueviolet)
 
 ## :sparkles: Projects
 

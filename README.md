@@ -1,6 +1,9 @@
 # Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=tklein1801&style=flat-square&color=blueviolet)
+<!-- ![](https://komarev.com/ghpvc/?username=tklein1801&style=flat-square&color=blueviolet) -->
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/tklein1801/tklein1801&label=Besucher&countColor=%235865f2)
+
 
 ## :sparkles: Projects
 

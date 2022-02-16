@@ -5,7 +5,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/tklein1801/tklein1801&label=Besucher&countColor=%235865f2)
 
 
-## :sparkles: Projects
+<!-- ## :sparkles: Projects
 
 |       Project       |                                                         Description                                                          |              Demo              |
 | :-----------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------: |
@@ -17,7 +17,7 @@
 | BBS-Mitfahrzentrale |                                                                                                                              |     https://bbs.dulliag.de     |
 |      DulliBot       |                                          DiscordJS based bot for our Discord Server                                          |       [DulliAG Discord]        |
 |       AmaBot        |                     DiscordJS based bot for our Discord Server to webscrape prices from Amazon products                      |       [DulliAG Discord]        |
-|    DAG-Infopanel    | ⚠️ You should use https://app.dulliag.de instead ⚠️<br /> AdminLTE based Infopanel for [ReallifeRPG](https://realliferpg.de) |   [https://info.dulliag.de]    |
+|    DAG-Infopanel    | ⚠️ You should use https://app.dulliag.de instead ⚠️<br /> AdminLTE based Infopanel for [ReallifeRPG](https://realliferpg.de) |   [https://info.dulliag.de]    | -->
 
 <!-- Demo urls -->
 
